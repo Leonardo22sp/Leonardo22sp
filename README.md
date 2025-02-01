@@ -7,7 +7,7 @@ Desenvolvedor de sistemas apaixonado por criar soluções eficientes e escaláve
 - **Front-end:** HTML, CSS, JavaScript
 - **Back-end:** Python, SQL
 - **Cloud:** Google Cloud Platform (GCP)
-- **Ferramentas:** Git, Docker, VS Code
+- **Ferramentas:** Git, VS Code
 
 ## 🚀 Projetos Destacados
 
