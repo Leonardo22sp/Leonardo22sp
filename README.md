@@ -23,7 +23,6 @@ Desenvolvedor de sistemas apaixonado por criar soluções eficientes e escaláve
 - **E-mail:** santos.leonardo22sp@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/leonardo-santos-silva-career/
 - **Google Cloud:** https://www.cloudskillsboost.google/public_profiles/eca70706-44cd-412b-975f-95f2623f9716
--
 
 ## 🌟 Agradecimentos
 
