@@ -12,7 +12,7 @@ Desenvolvedor de sistemas apaixonado por criar soluções eficientes e escaláve
 ## 🚀 Projetos Destacados
 
 - **Sistema Solar (https://leonardo22sp.github.io/SistemaSolar/)** - Sistema Solar criado com base em HTML, CSS e JavaScript.
-- **Clínica Estrelinhas da Saúde (https://senai-morvan-figueiredo.github.io/ClinicaEstrelinhasDaSaude/)** - Breve descrição do projeto.
+- **Clínica Estrelinhas da Saúde (https://senai-morvan-figueiredo.github.io/ClinicaEstrelinhasDaSaude/)** - Clínica de pediatria fictícia, criada para o uso de pacientes, médicos e admnistradores.
 
 ## 📈 Estatísticas do GitHub
 
@@ -20,8 +20,10 @@ Desenvolvedor de sistemas apaixonado por criar soluções eficientes e escaláve
 
 ## 📫 Como me encontrar
 
-- **LinkedIn:** Leonardo Santos da Silva (https://www.linkedin.com/in/leonardo-santos-silva-career/)
 - **E-mail:** santos.leonardo22sp@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/leonardo-santos-silva-career/
+- **Google Cloud:** https://www.cloudskillsboost.google/public_profiles/eca70706-44cd-412b-975f-95f2623f9716
+-
 
 ## 🌟 Agradecimentos
 
